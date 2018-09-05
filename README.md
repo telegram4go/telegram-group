@@ -20,10 +20,11 @@
 ## 娱乐 
 
 - 🤑&🤖 - [视频转gif](https://t.me/vgifbot)
-- 🤑&📮&🔞 - [妹探(NSFW)](https://t.me/maito_channel)
+- 🤑&📮&🔞 - [gif出去讨论交流群](https://t.me/luztwolfz_group)
+- 🤑&📮&🔞 - [纯@色](https://t.me/pureSe)
 
 ## 代码 - 培训 & 学习资料 & 资源共享交流
 
 - ⚔️&🗣 - [Python中文交流](https://t.me/pythonzh)
-
+- ⚔️&🗣 - [快码](https://t.me/quickCoder)
 
