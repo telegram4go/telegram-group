@@ -1,6 +1,6 @@
 # telegram-group
 
-> 电报&Telegram中文群&Channel订阅资源共享
+> 电报&Telegram中文群&机器人&Channel订阅资源共享
 > 
 > update: 2018-09-05 17:32:11
 
@@ -11,7 +11,12 @@
 - 📚&👥 - [每周一书](https://t.me/weekly_books)
 
 
-## 电报&Telegram免费代理分享
+## 免费代理 - socks5 & mtproto
 
-- 🤑&👥 - [socks5_bot channel](https://t.me/socks5ru)
+- 🤑&📮 - [socks5_bot channel](https://t.me/socks5ru)
 
+
+## 娱乐 
+
+- 🤑&🤖 - [视频转gif](https://t.me/vgifbot)
+- 🤑&📮 - [妹探(NSFW)](https://t.me/maito_channel)
