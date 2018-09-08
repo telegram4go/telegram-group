@@ -1,8 +1,6 @@
 # telegram-group
 
 > 电报&Telegram中文群&机器人&Channel订阅资源共享
-> 
-> update: 2018-09-05 17:32:11
 
 ## 阅读 - Kidnle & mobi&awz & 分享
 
@@ -35,3 +33,4 @@
 
 - 🔨&💡 - [信用卡](https://t.me/cdgroup)
 - 🔨&👥 - [海淘攻略](https://t.me/ihaitao)
+- 🤑&👥 - [投机](https://t.me/go4chance)
